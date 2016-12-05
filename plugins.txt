@@ -11,3 +11,4 @@ scm-api
 ssh-credentials
 ssh-slaves
 swarm
+docker-plugin
